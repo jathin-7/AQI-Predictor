@@ -118,8 +118,8 @@ air\_quality\_predictor/
 
 ## &#x20;Author
 
-**Your Name**
-College Name | Department | Year
+**YATHAM JATHINDRA REDDY**
+VIT BHOPAL  | AI AND ML | 2025 BATCH
 
 \---
 
